@@ -8,7 +8,7 @@ It also shows the user location.
 Users can also attach audio or image to the note.
 
 
-SCRREN 1 : Home Page - On clicking the plus icon, screen 2 opens.
+SCREEN 1 : Home Page - On clicking the plus icon, screen 2 opens.
 
 ![Screen Shot 2021-04-29 at 6 23 05 AM](https://user-images.githubusercontent.com/33275709/116542940-3ebf3080-a8bb-11eb-8c5f-233a9a314ae2.png)
 
